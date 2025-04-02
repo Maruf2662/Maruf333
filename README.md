@@ -19,9 +19,17 @@
 </p> 
 
 ---------
+══════ •⊰✦⊱• ══════
+𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄 𝐃𝐈 𝐌𝐓-𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐍𝐄𝐂𝐂𝐄𝐒𝐒𝐀𝐑𝐈𝐀 𝐏𝐄𝐑 𝐋'𝐄𝐃𝐈𝐓 𝐃𝐄𝐋 𝐁𝐎𝐓
+══════ •⊰✦⊱• ══════
+
+https://mt-manager.en.softonic.com/android?psafe_param=1&utm_source=SEM&utm_medium=paid&utm_campaign=IT_Italy_DSA_mobile&gad_source=1&gclid=CjwKCAiA6aW6BhBqEiwA6KzDc6U6GJcHp-i1gZZS5OFs6OL8vXMvOx8zSo4Gm31AZcV1RgmVQgWO2BoClRIQAvD_Bw
+
+
+
 ### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄 333BOT`
 
-`𝐔𝐒𝐀 𝐈𝐋 𝐁𝐎𝐓𝐓𝐎𝐍𝐄 𝐏𝐄𝐑 𝐄𝐒𝐄𝐆𝐔𝐈𝐑𝐄 𝐈𝐋 𝐅𝐎𝐑𝐊` 
+`𝐔𝐒𝐀 𝐈𝐋 𝐁𝐎𝐓𝐎𝐍𝐄 𝐏𝐄𝐑 𝐄𝐒𝐄𝐆𝐔𝐈𝐑𝐄 𝐈𝐋 𝐅𝐎𝐑𝐊` 
 
    <a href="https://github.com/GabWT333/Gab333/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a> 
  <br> 
@@ -116,8 +124,15 @@ DIGITA QUESTI COMANDI:
 <p style="display: flex; align-items: center;">
   <img src="https://qu.ax/kqvUq.jpg" width="100px" height="100px" alt="Death" style="margin-right: 10px;">
   <span style="font-size: 16px; font-weight: bold;">𝐃𝐞𝐚𝐭𝐡 </span>
-  <a href="https://wa.me/447365589428" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Developer Owner del bot</a>
+  <a href="https://wa.me/447365589428" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Developer ¹</a>
 </p>
+
+<p style="display: flex; align-items: center;">
+  <img src="https://qu.ax/GeYrT.jpg" width="100px" height="100px" alt="Davide" style="margin-right: 10px;">
+  <span style="font-size: 14px; font-weight: bold;">𝔇𝔞𝔳𝔦𝔡𝔢</span>
+  <a href="https://wa.me/393518419909" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Developer ²</a>
+</p>
+
 
 
 ### ``` ✨ARMYHOSTING✨ ```
